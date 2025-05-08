@@ -1,23 +1,21 @@
 ![Vishal Pednekar](./assets/images/profile-main.png)
 
-<svg fill="none" viewBox="0 0 600 100" width="600" height="100" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div id="badges" style="display: flex; justify-content: center; gap: 12px; margin-top: 20px;">
-      <a href="https://www.linkedin.com/in/vishalpednekar" style="background-color: #0A66C2; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: flex; align-items: center; font-family: sans-serif; font-weight: bold;">
-        <img src="./assets/images/logos/InBug-White.png" alt="LinkedIn" width="22" height="20" style="margin-right: 8px;" />
-        LinkedIn
-      </a>
-      <a href="https://www.youtube.com/@theforgottenprogrammer7842" style="background-color: #FF4B3E; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: flex; align-items: center; font-family: sans-serif; font-weight: bold;">
-        <img src="./assets/images/logos/yt_icon_mono_dark.png" alt="YouTube" width="28" height="20" style="margin-right: 8px;" />
-        YouTube
-      </a>
-      <a href="https://github.com/ForgottenLight4415" style="background-color: #000000; color: white; padding: 10px 20px; border-radius: 5px; text-decoration: none; display: flex; align-items: center; font-family: sans-serif; font-weight: bold;">
-        <img src="./assets/images/logos/github-mark-white.png" alt="GitHub" width="20" height="20" style="margin-right: 8px;" />
-        GitHub
-      </a>
-    </div>
-  </foreignObject>
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="50">
+  <rect x="0" y="0" width="180" height="50" rx="6" fill="#0A66C2"/>
+  <image x="10" y="15" width="22" height="20" href="https://raw.githubusercontent.com/ForgottenLight4415/assets/main/InBug-White.png"/>
+  <text x="40" y="33" font-family="sans-serif" font-size="16" fill="white" font-weight="bold">LinkedIn</text>
 </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="50">
+  <rect x="0" y="0" width="200" height="50" rx="6" fill="#FF4B3E"/>
+  <image x="10" y="15" width="28" height="20" href="https://raw.githubusercontent.com/ForgottenLight4415/assets/main/yt_icon_mono_dark.png"/>
+  <text x="45" y="33" font-family="sans-serif" font-size="16" fill="white" font-weight="bold">YouTube</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="50">
+  <rect x="0" y="0" width="160" height="50" rx="6" fill="#000000"/>
+  <image x="10" y="15" width="20" height="20" href="https://raw.githubusercontent.com/ForgottenLight4415/assets/main/github-mark-white.png"/>
+  <text x="40" y="33" font-family="sans-serif" font-size="16" fill="white" font-weight="bold">GitHub</text>
+</svg>
+
 
 I’m a motivated and detail-oriented Master’s student in Computer Engineering at Virginia Tech, with a strong foundation in full stack development, cloud systems, and a growing specialization in AI/ML. My experience includes building scalable web and mobile applications, engineering real-time analytics platforms like URSA, and leading award-winning research in video analytics. I thrive in dynamic, problem-solving environments and am passionate about combining software engineering with intelligent systems to deliver impactful and innovative solutions.
 
